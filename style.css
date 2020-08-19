@@ -1,0 +1,89 @@
+body {
+    font-family: "Libre Caslon Display", serif;
+  }
+  
+  .content_containers {
+    width: 50%;
+    padding: 10px;
+    background-color: #810000;
+    margin: 10px;
+    border-radius: 5px;
+  }
+  
+  .container {
+    background-color: #ffcb8e;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .card_container {
+    display: flex;
+  }
+  
+  .white {
+    background-color: #f5efef;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  .red {
+    color: #810000;
+    text-align: center;
+  }
+  
+  img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    color: #f5efef;
+  }
+  
+  p {
+    color: #ffcb8e;
+  }
+  
+  a.pink:link,
+  a.pink:visited {
+    color: #e97171;
+  }
+  
+  a.pink:hover {
+    color: #810000;
+  }
+  
+  a:link,
+  a:visited {
+    color: #f5efef;
+  }
+  
+  h2:hover {
+    color: #e97171;
+  }
+  
+  a:hover {
+    color: #e97171;
+  }
+  
+  .col {
+    padding: 10px;
+    background-color: #810000;
+    margin: 10px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+  }
+  
+  .gallery_image {
+    width: 100%;
+    margin: 10px;
+  }
+  
