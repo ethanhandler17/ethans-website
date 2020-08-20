@@ -1,0 +1,11 @@
+git add . = adds all my files to a change set (change is like a moving box)
+git status = sees what is inside the change set 
+git reset = empties change set 
+git commit -m '' = label for change set 
+git push = moves change set to github 
+
+other git commands
+git pull = gets changes from github 
+git clone = copies a repository from github 
+
+
